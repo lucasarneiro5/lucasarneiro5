@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engineering and data science after my graduation.
+I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engineering and data science since my graduation.
 
 I love tech, musik and soccer!!
 
 I'm looking forward to applying Artificial Intelligence in different areas like mechanic systems (Self-Driving cars), sports, and digital marketing.
 
-- 🔭 I’m currently working on Machine Learning basics algorithms. I'm gonna improve my skills into that and keep foward to learn Computer Vision!
+- 🔭 I’m currently working on Machine Learning basics algorithms. I'm gonna improve my skills in that and keep forward to learning Computer Vision!
 
 - 🌱 I’m currently learning Machine Learning and Data Structures.
 
