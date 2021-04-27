@@ -18,6 +18,7 @@ I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engi
  ⚡ Fun fact: I used to play bass/guitar in a band. I was born in Brazil and I'd like to travel around the world to study, work, make friends, learn about different things and help in some way.
   
  📫 How to reach me: 
+ 
 <a target="_blank" href="https://www.linkedin.com/in/lucas-arneiro-vieira-7923b193/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
