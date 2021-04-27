@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engineering and data science since my graduation.
+I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engineering and data science since my graduation. 
+
+I'm looking forward to applying Artificial Intelligence in different areas.
 
 I love tech, engineering, music and soccer!!
 
@@ -15,16 +17,12 @@ I love tech, engineering, music and soccer!!
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
-- I'm looking forward to applying Artificial Intelligence in different areas.
-
 - 🔭 I’m currently working on Machine Learning algorithms, C/C++, Python Web and always practicing SolidWorks and PCB design. I'm gonna improve my skills in that and keep forward to learning Computer Vision!
 
 - 🌱 I’m currently learning Machine Learning, Python Web and Data Structures besides mechanics and electronics design.
 
 - 👯 I’m looking to collaborate on GitHub and Medium.
   
-
 - ⚡ Fun fact: I used to play bass/guitar in a band. I was born in Brazil and I'd like to travel around the world to study, work, make friends, learn about different things and help in some way.
 
 See ya,
