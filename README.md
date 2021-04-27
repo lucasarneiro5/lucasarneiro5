@@ -15,7 +15,8 @@ I love tech, engineering, music and soccer!!
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-I'm looking forward to applying Artificial Intelligence in different areas.
+
+- I'm looking forward to applying Artificial Intelligence in different areas.
 
 - 🔭 I’m currently working on Machine Learning algorithms, C/C++, Python Web and always practicing SolidWorks and PCB design. I'm gonna improve my skills in that and keep forward to learning Computer Vision!
 
