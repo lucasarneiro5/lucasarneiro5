@@ -19,13 +19,13 @@ I'm Lucas! I'm 27 and I'm a mechatronics engineer and I'm studying software engi
   
  📫 How to reach me: 
  
-- <a target="_blank" href="https://www.linkedin.com/in/lucas-arneiro-vieira-7923b193/">
+ <a target="_blank" href="https://www.linkedin.com/in/lucas-arneiro-vieira-7923b193/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/lucasarneiro/">
+ </a>
+ <a target="_blank" href="https://www.instagram.com/lucasarneiro/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:lucasarneiro.v@gmail.com">
+ </a>
+ <a target="_blank" href="mailto:lucasarneiro.v@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+ </a>
 
