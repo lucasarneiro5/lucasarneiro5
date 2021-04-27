@@ -6,17 +6,6 @@ I'm looking forward to applying Artificial Intelligence in different areas.
 
 I love tech, engineering, music and soccer!!
 
-- 📫 How to reach me: 
-<a target="_blank" href="https://www.linkedin.com/in/lucas-arneiro-vieira-7923b193/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/lucasarneiro/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:lucasarneiro.v@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
 - 🔭 I’m currently working on Machine Learning algorithms, C/C++, Python Web and always practicing SolidWorks and PCB design. I'm gonna improve my skills in that and keep forward to learning Computer Vision!
 
 - 🌱 I’m currently learning Machine Learning, Python Web and Data Structures besides mechanics and electronics design.
@@ -27,4 +16,16 @@ I love tech, engineering, music and soccer!!
 
 See ya,
   Lucas.
+  
+  
+  - 📫 How to reach me: 
+<a target="_blank" href="https://www.linkedin.com/in/lucas-arneiro-vieira-7923b193/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/lucasarneiro/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:lucasarneiro.v@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 -->
