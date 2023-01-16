@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lucas! I'm a mechatronics engineer and I'm studying software engineering and data science since my graduation. I'm looking forward to applying Artificial Intelligence in different areas. I love tech, engineering, music and soccer!!
+I'm Lucas! I'm a mechatronics engineer and I have been studying software engineering and data science since my graduation. I'm looking forward to applying Artificial Intelligence in different areas. I love tech, engineering, music and soccer!!
 
 ----------------------------------------------------------------------------------------------------
 
