@@ -4,10 +4,10 @@ I'm Lucas! I'm a mechatronics engineer and I have been studying software enginee
 
 ----------------------------------------------------------------------------------------------------
 
- 🔭 I’m currently working at KPMG Brasil with RPA using Python and AAE. But I intend to work in different opportunities with C/C++ and Python general projects. I'm gonna improve my skills in that to apply in many different areas!
+ 🔭 I’m currently working at KPMG Brasil with RPA and Data Engineering using Python. However, I intend to work in different opportunities. I'm gonna improve my skills in that to apply in many different areas!
 
 
- 🌱 I’m currently studying about Data Engineering, Computer Vision and back-end with Python and C++ .
+ 🌱 I’m currently studying Data Engineering, and back-end with Python.
 
  👯 I’m looking to collaborate on GitHub and Medium.
   
