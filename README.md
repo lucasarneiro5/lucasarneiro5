@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I'm Lucas! I'm a mechatronics engineer and I have been studying software engineering and data science since my graduation. I'm looking forward to applying techonology in different areas. I love tech, engineering, music and soccer!!
+I'm Lucas! I'm a Mechatronics Engineer currently pursuing a master's degree in Automation and IoT Systems Engineering. I'm passionate about applying technology in different areas. I love tech, engineering, music, and soccer! ⚽🎶
 
-----------------------------------------------------------------------------------------------------
+🔭 I’ve worked for 4 years with RPA and Data Engineering using Python and SQL. However, I’m eager to explore new opportunities involving AI and hardware. I’m committed to improving my skills to apply them across various fields.
 
- 🔭 I’ve worked at KPMG Brasil for 4 years with RPA and Data Engineering using Python. However, I intend to work in different opportunities. I'm gonna improve my skills in that to apply in many different areas!
+🌱 I’m currently studying Data Engineering, Software Engineering, IoT, and everything tech-related.
 
+👯 I’m looking to collaborate on GitHub and share ideas and experiences on Medium.
 
- 🌱 I’m currently studying IoT and every tech related.
-
- 👯 I’m looking to collaborate on GitHub and Medium.
-  
- ⚡ Fun fact: I used to play bass/guitar in a band. I'd like to travel around the world to study, work, make friends, learn about different things and help in some way.
+⚡ Fun fact: I used to play bass and guitar in a band. I'd love to travel the world to study, work, make friends, learn new things, and make a positive impact wherever I go.
   
  📫 How to reach me: 
  
