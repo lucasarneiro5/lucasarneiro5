@@ -22,7 +22,9 @@ Over the past 5+ years, I've worked on automation, data, and software projects f
 
 **DevOps & Cloud**: Docker, Git, AWS
 
+
 🌱 Currently Learning
+
 Data Engineering
 Software Architecture & Design Patterns
 Artificial Intelligence
