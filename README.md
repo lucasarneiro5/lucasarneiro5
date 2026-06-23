@@ -8,7 +8,7 @@ I'm passionate about technology and enjoy applying it to solve real-world proble
 
 🚀 Professional Experience
 
-Over the past 5+ years, I've worked on automation, data, and software projects for large companies across Latin America, including KPMG and Deloitte. Throughout my career, I've developed solutions focused on process optimization, operational efficiency, and data-driven decision-making.
+Over the past 5+ years, I've developed automation solutions that reduced manual effort and improved operational efficiency for large companies across Latin America, including KPMG and Deloitte. Throughout my career, I've developed solutions focused on process optimization, operational efficiency, and data-driven decision-making.
 
 💻 Technologies & Tools
 
