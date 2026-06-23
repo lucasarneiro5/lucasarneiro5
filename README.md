@@ -1,14 +1,36 @@
 ### Hi there 👋
 
-I'm Lucas! I'm a Mechatronics Engineer currently pursuing a master's degree in Automation and IoT Systems Engineering. I'm passionate about applying technology in different areas. I love tech, engineering, music, and soccer! ⚽🎶
+Hi there, I'm Lucas 👋
 
-🔭 I’ve been working for 5 years with RPA and Data Engineering using Python and SQL. However, I’m eager to explore new opportunities involving AI and hardware. I’m committed to improving my skills to apply them across various fields.
+I'm a Mechatronics Engineer with a postgraduate degree in Software Engineering and currently pursuing a Master's degree in Automation and IoT Systems Engineering.
 
-🌱 I’m currently studying about Data Engineering, Software Engineering and IoT.
+I'm passionate about technology and enjoy applying it to solve real-world problems across different industries. My interests include software development, data engineering, automation, IoT, vehicles, music, and soccer. ⚽🎶
 
-👯 I’m looking to collaborate on GitHub and share ideas and experiences on LinkedIn.
+🚀 Professional Experience
 
-⚡ Fun fact: I used to play bass and guitar in a band. I'd love to travel the world to study, work, make friends, learn new things, and make a positive impact wherever I go.
+Over the past 5+ years, I've worked on automation, data, and software projects for large companies across Latin America, including KPMG and Deloitte. Throughout my career, I've developed solutions focused on process optimization, operational efficiency, and data-driven decision-making.
+
+💻 Technologies & Tools
+Programming: Python (Pandas, NumPy, Selenium, Playwright, Django, FastAPI)
+Databases: MySQL, PostgreSQL, SQL Server, BigQuery, Amazon RDS, MongoDB
+Data & Analytics: ETL Pipelines, Web Scraping, Data Processing, Power BI
+Automation: Automation Anywhere, RPA Solutions
+DevOps & Cloud: Docker, Git, AWS
+🌱 Currently Learning
+Data Engineering
+Software Architecture & Design Patterns
+Artificial Intelligence
+IoT Systems and Edge Computing
+Cloud-Native Applications
+🤝 Let's Connect
+
+I'm always interested in collaborating on open-source projects, exchanging ideas, and connecting with professionals from around the world.
+
+Feel free to connect with me on LinkedIn or explore my repositories.
+
+⚡ Fun Fact
+
+Before diving fully into technology, I played bass and guitar in a band. One of my biggest goals is to travel the world, work on innovative projects, meet people from different cultures, and use technology to create meaningful impact.
   
  📫 How to reach me: 
  
@@ -19,9 +41,3 @@ I'm Lucas! I'm a Mechatronics Engineer currently pursuing a master's degree in A
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
  </a>
 
-
- Technologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
