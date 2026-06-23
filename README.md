@@ -11,6 +11,7 @@ I'm passionate about technology and enjoy applying it to solve real-world proble
 Over the past 5+ years, I've worked on automation, data, and software projects for large companies across Latin America, including KPMG and Deloitte. Throughout my career, I've developed solutions focused on process optimization, operational efficiency, and data-driven decision-making.
 
 💻 Technologies & Tools
+
 **Programming**: Python (Pandas, NumPy, Selenium, Playwright, Django, FastAPI)
 
 **Databases**: MySQL, PostgreSQL, SQL Server, BigQuery, Amazon RDS, MongoDB
