@@ -12,16 +12,22 @@ Over the past 5+ years, I've worked on automation, data, and software projects f
 
 💻 Technologies & Tools
 Programming: Python (Pandas, NumPy, Selenium, Playwright, Django, FastAPI)
+
 Databases: MySQL, PostgreSQL, SQL Server, BigQuery, Amazon RDS, MongoDB
+
 Data & Analytics: ETL Pipelines, Web Scraping, Data Processing, Power BI
+
 Automation: Automation Anywhere, RPA Solutions
+
 DevOps & Cloud: Docker, Git, AWS
+
 🌱 Currently Learning
 Data Engineering
 Software Architecture & Design Patterns
 Artificial Intelligence
 IoT Systems and Edge Computing
 Cloud-Native Applications
+
 🤝 Let's Connect
 
 I'm always interested in collaborating on open-source projects, exchanging ideas, and connecting with professionals from around the world.
